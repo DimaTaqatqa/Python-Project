@@ -1,0 +1,2 @@
+Year/Semester ; Courses with grades
+2021-2022/1 ; ENCS2308 81, ENCS3110 87, ENCS2110 90, ENEE2304 75, ENEE2307 93
